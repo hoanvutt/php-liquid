@@ -79,4 +79,4 @@ It contains several improvements:
 
 Any help is appreciated!
 
-Add Some Changes onto this fork for support create Themes for [Shopify](http://www.shopify.com/) and [Haravan](https://www.haravan.com/) by [Hoàn Vũ Trần](http://aexpertteam.com/)
+Add Some Changes onto this fork for support create Themes for [Shopify](http://www.shopify.com/) and [Haravan](https://www.haravan.com/) by [Hoàn Vũ Trần](http://hoanvutt.wordpress.com/) from [Awesome Expert Team](http://aexpertteam.com/)
