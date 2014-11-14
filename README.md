@@ -78,3 +78,5 @@ It contains several improvements:
  * `raw` tag added
 
 Any help is appreciated!
+
+Add Some Changes onto this fork for support create Themes for [Shopify](http://www.shopify.com/) and [Haravan](https://www.haravan.com/) by [Hoàn Vũ Trần](http://aexpertteam.com/)
